@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/)
-- [Quick Start](Quickstart.md)
+- [Quick Start](QuickStart.md)
 - [Sound Card](SoundCard.md)
 - [Connecting to the Pi](ConnectingToThePi.md)
 - [Autospot](Autospot.md)
